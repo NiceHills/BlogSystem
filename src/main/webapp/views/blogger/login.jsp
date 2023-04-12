@@ -49,7 +49,7 @@
     <div class="col-md-5" style="padding-left: 64px">
         <div class=" text-center">
             <br>
-            <small style="color: gray;font-size: 1.3em" class="lead">请输入您的用户名和密码</small>
+            <small style="color: gray;font-size: 1.3em" class="lead">请输入您的微信号\手机号\用户名和密码</small>
             <br>
             <br>
             <hr class="default-line">
