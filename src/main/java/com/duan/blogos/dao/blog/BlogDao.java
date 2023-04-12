@@ -12,7 +12,7 @@ import java.util.List;
  * Created on 2017/12/12.
  * 对博文的CRUD
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Repository
 public interface BlogDao extends BaseDao<Blog> {

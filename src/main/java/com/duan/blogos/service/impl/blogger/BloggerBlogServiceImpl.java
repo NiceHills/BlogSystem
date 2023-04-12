@@ -50,7 +50,7 @@ import static com.duan.blogos.enums.BlogStatusEnum.PUBLIC;
  * Created on 2017/12/19.
  * 博主检索博文
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Service
 public class BloggerBlogServiceImpl extends BlogFilterAbstract<ResultBean<List<BlogListItemDTO>>> implements BloggerBlogService {

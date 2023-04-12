@@ -34,7 +34,7 @@ import java.io.InputStream;
  * <p>
  * 参加ImageController#constructPictureUrl
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Controller
 @RequestMapping("/image/{bloggerId}")

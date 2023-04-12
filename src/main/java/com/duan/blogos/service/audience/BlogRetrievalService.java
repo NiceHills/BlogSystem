@@ -15,7 +15,7 @@ import java.util.List;
  * 3 类别检索
  * 4 标签检索
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public interface BlogRetrievalService extends BlogFilter<ResultBean<List<BlogListItemDTO>>> {
 

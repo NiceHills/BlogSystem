@@ -20,7 +20,7 @@ import java.util.List;
  * 3 更新链接
  * 4 删除链接
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @RestController
 @RequestMapping("/blogger/{bloggerId}/link")

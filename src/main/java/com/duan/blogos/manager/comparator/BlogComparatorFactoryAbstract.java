@@ -11,7 +11,7 @@ import java.util.Map;
  * Created on 2017/12/20.
  * 博文排序所需的比较器创建工厂，比较器名称定义于{@link Rule}中
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public abstract class BlogComparatorFactoryAbstract<T> {
 

@@ -8,7 +8,7 @@ import com.duan.blogos.entity.blog.BlogStatistics;
  * Created on 2017/12/20.
  * 获取博主博文列表时排序规则的比较器创建工厂
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class BlogListItemComparatorFactory extends BlogComparatorFactoryAbstract<BlogStatistics> {
 

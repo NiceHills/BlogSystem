@@ -27,7 +27,7 @@ import java.util.stream.Collectors;
  * Created on 2018/1/15.
  * 博文检索
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Component
 public abstract class BlogFilterAbstract<T> implements BlogFilter<T> {

@@ -12,7 +12,7 @@ import java.sql.Timestamp;
  * 博文列表项
  * 博主的博文以列表项的形式将每一篇博文的主要信息展现给读者
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Data
 public class BlogListItemDTO implements Serializable {

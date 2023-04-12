@@ -5,7 +5,7 @@ import com.duan.blogos.entity.blogger.BloggerSetting;
 /**
  * Created on 2018/3/26.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public interface BloggerSettingService {
 

@@ -4,7 +4,7 @@ package com.duan.blogos.enums;
  * Created on 2017/12/14.
  * 博文评论状态，code的值对应数据库表blog_comment的state字段
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public enum BlogCommentStatusEnum {
 

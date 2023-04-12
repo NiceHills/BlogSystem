@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * Created on 2018/4/7.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @RestController
 @RequestMapping("/email")

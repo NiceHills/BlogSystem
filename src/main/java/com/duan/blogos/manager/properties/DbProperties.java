@@ -6,7 +6,7 @@ import lombok.Data;
  * Created on 2017/12/21.
  * 数据库配置参数
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Data
 public class DbProperties {

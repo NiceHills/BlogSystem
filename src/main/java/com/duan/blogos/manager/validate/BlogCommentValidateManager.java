@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
  * Created on 2017/12/26.
  * 博文评论审核
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Component
 public class BlogCommentValidateManager {

@@ -6,7 +6,7 @@ import com.duan.blogos.exception.BaseRuntimeException;
  * Created on 2018/3/1.
  * 图片格式错误
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class PictureFormatErrorException extends BaseRuntimeException {
 

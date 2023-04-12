@@ -9,7 +9,7 @@ import java.io.Serializable;
  * Created on 2017/12/15.
  * 博主友情链接
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Data
 public class BloggerLinkDTO implements Serializable {

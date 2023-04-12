@@ -25,7 +25,7 @@ import java.util.Map;
  * Created on 2017/12/19.
  * 读者检索博文
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Service
 public class BlogRetrievalServiceImpl extends BlogFilterAbstract<ResultBean<List<BlogListItemDTO>>> implements

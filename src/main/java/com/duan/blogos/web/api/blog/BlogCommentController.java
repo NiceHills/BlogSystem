@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * Created on 2018/2/4.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @RestController
 @RequestMapping("/blog/{blogId}/comment")

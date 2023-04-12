@@ -5,7 +5,7 @@ import com.duan.blogos.exception.BaseRuntimeException;
 /**
  * Created on 2018/1/27.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class DuplicationDataException extends BaseRuntimeException {
 

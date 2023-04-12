@@ -6,7 +6,7 @@ import java.net.URLEncoder;
 /**
  * Created on 2018/2/18.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class JiSuApiUtils {
 

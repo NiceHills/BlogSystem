@@ -4,7 +4,7 @@ package com.duan.blogos.exception.internal;
  * Created on 2018/2/2.
  * 未知内部错误
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class UnknownInternalException extends InternalRuntimeException {
 

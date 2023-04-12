@@ -3,7 +3,7 @@ package com.duan.blogos.service.common;
 /**
  * Created on 2018/4/7.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public interface EmailService {
 

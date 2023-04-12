@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * Created on 2018/3/7.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Controller
 @RequestMapping("/{pageOwnerBloggerName}/blog/favourite")

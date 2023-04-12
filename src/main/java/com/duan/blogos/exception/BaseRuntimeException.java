@@ -7,7 +7,7 @@ import org.slf4j.LoggerFactory;
  * Created on 2017/12/20.
  * 不受检查的异常，这些异常将会传递（反映）到调用端以标识输入错误和执行失败的情况。
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class BaseRuntimeException extends RuntimeException {
 

@@ -6,7 +6,7 @@ import com.duan.blogos.exception.BaseRuntimeException;
  * Created on 2018/1/17.
  * 服务器内部错误，用于终止操作，这类错误不应该被传递到前端
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class InternalRuntimeException extends BaseRuntimeException {
 

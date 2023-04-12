@@ -6,7 +6,7 @@ import lombok.Data;
  * Created on 2018/1/3.
  * 站点配置参数
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Data
 public class WebsiteProperties {

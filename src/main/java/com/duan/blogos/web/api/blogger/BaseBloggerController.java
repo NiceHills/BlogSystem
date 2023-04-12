@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletRequest;
  * Created on 2017/12/28.
  * 该家族的大多数操作都需要博主登录
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class BaseBloggerController extends BaseCheckController {
 

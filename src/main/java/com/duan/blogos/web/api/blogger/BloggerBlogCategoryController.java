@@ -22,7 +22,7 @@ import java.util.Optional;
  * 4 修改类别
  * 5 删除类别
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @RestController
 @RequestMapping("/blogger/{bloggerId}/category")

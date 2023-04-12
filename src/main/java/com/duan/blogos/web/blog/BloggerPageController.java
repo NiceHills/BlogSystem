@@ -23,7 +23,7 @@ import java.util.Optional;
  * Created on 2018/2/5.
  * 博主主页
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Controller
 @RequestMapping("/{bloggerName}")

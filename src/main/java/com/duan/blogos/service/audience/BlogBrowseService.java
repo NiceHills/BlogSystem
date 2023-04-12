@@ -13,7 +13,7 @@ import java.util.List;
  * 1 获得博文主体信息
  * 2 获得博文评论列表
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public interface BlogBrowseService {
 

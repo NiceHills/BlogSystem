@@ -8,7 +8,7 @@ import com.duan.blogos.exception.BaseRuntimeException;
  * <p>
  * 可用的排序顺序只有从高到低（降序，desc），从低到高（升序，asc）两种
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class BlogSortOrderUndefinedException extends BaseRuntimeException {
 

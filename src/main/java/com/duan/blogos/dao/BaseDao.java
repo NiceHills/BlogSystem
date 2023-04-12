@@ -4,7 +4,7 @@ package com.duan.blogos.dao;
  * Created on 2017/12/12.
  * Dao 层数据库操作的最上层约定
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public interface BaseDao<T> {
 

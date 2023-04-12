@@ -21,7 +21,7 @@ import javax.servlet.http.HttpSession;
  * 3 修改密码
  * 4 注销账号
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @RestController
 @RequestMapping("/blogger")

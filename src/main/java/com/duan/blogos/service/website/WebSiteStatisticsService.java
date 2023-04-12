@@ -8,7 +8,7 @@ import java.util.List;
  * Created on 2018/5/1.
  * 站点统计数据
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public interface WebSiteStatisticsService {
 

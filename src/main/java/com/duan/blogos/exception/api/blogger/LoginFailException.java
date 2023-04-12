@@ -6,7 +6,7 @@ import com.duan.blogos.exception.BaseRuntimeException;
  * Created on 2018/1/29.
  * 登录失败
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class LoginFailException extends BaseRuntimeException {
 

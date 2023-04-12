@@ -15,7 +15,7 @@ import static com.duan.blogos.enums.BlogCommentStatusEnum.RIGHTFUL;
 /**
  * Created on 2018/3/13.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 
 @RestController

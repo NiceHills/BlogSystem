@@ -10,7 +10,7 @@ import java.sql.Timestamp;
  * Created on 2017/12/15.
  * 博主创建的类别
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Data
 public class BloggerCategoryDTO implements Serializable {

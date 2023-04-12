@@ -20,7 +20,7 @@ import javax.servlet.http.HttpServletRequest;
  * 5 取消收藏
  * 6 取消喜欢
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @RestController
 @RequestMapping("/blogger/{bloggerId}/{blogId}")

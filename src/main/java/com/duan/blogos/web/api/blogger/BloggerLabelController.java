@@ -22,7 +22,7 @@ import java.util.List;
  * 5 增加标签
  * 6 获取指定博主创建的标签
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @RestController
 @RequestMapping("/blogger/{bloggerId}/label")

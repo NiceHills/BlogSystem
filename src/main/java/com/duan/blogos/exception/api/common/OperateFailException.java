@@ -6,7 +6,7 @@ import com.duan.blogos.exception.BaseRuntimeException;
  * Created on 2017/12/22.
  * 操作执行失败异常
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class OperateFailException extends BaseRuntimeException {
 

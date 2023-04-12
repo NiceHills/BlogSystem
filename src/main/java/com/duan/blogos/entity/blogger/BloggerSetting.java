@@ -5,7 +5,7 @@ import lombok.Data;
 /**
  * Created on 2018/3/26.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Data
 public class BloggerSetting {

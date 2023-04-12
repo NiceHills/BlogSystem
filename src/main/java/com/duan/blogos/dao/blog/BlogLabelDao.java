@@ -11,7 +11,7 @@ import java.util.List;
  * Created on 2017/12/22.
  * 博文标签dao
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Repository
 public interface BlogLabelDao extends BaseDao<BlogLabel> {

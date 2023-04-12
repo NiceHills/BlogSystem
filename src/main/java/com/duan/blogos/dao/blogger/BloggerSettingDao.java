@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 /**
  * Created on 2018/3/26.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Repository
 public interface BloggerSettingDao extends BaseDao<BloggerSetting> {

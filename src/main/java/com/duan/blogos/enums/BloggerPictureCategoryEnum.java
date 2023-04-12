@@ -6,7 +6,7 @@ import java.util.EnumSet;
  * Created on 2017/12/15.
  * 伯乐相册图片种类
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public enum BloggerPictureCategoryEnum {
 

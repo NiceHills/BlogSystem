@@ -32,7 +32,7 @@ import java.util.Map;
 /**
  * Created on 2017/12/19.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Service
 public class BloggerCollectBlogServiceImpl implements BloggerCollectBlogService {

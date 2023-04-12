@@ -39,7 +39,7 @@ import java.util.stream.Stream;
  * 5 删除博文
  * 6 批量删除博文
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @RestController
 @RequestMapping("/blogger/{bloggerId}/blog")

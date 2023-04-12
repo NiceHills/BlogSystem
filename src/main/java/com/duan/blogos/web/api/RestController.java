@@ -22,7 +22,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * Created on 2017/12/26.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class RestController {
 

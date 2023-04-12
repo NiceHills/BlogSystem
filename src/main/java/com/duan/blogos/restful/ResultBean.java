@@ -10,7 +10,7 @@ import java.io.Serializable;
  * Created on 2017/12/13.
  * restful 风格 API 返回结果固定结构
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 
 @Getter

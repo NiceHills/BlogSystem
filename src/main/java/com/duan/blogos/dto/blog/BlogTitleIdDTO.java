@@ -7,7 +7,7 @@ import java.io.Serializable;
 /**
  * Created on 2018/4/4.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Data
 public class BlogTitleIdDTO implements Serializable {

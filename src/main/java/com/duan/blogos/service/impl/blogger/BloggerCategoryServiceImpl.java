@@ -28,7 +28,7 @@ import static com.duan.blogos.enums.BloggerPictureCategoryEnum.DEFAULT_BLOGGER_B
 /**
  * Created on 2017/12/19.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Service
 public class BloggerCategoryServiceImpl implements BloggerCategoryService {

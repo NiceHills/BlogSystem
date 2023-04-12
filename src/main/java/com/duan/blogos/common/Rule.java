@@ -4,7 +4,7 @@ package com.duan.blogos.common;
  * Created on 2017/12/16.
  * 排序依据
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public enum Rule {
 

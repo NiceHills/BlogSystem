@@ -9,7 +9,7 @@ import java.sql.Timestamp;
  * Created on 2017/12/26.
  * 博文喜欢记录
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Data
 public class BlogLike implements Serializable {

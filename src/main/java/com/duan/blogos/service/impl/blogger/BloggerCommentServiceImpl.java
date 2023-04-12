@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 /**
  * Created on 2018/3/13.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Service
 public class BloggerCommentServiceImpl implements BloggerCommentService {

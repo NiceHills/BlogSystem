@@ -6,7 +6,7 @@ import com.duan.blogos.exception.BaseRuntimeException;
  * Created on 2017/12/22.
  * 未指明操作，不明确的API调用
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class UnspecifiedOperationException extends BaseRuntimeException {
 

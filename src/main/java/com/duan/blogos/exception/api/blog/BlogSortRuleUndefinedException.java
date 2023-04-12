@@ -8,7 +8,7 @@ import com.duan.blogos.exception.BaseRuntimeException;
  * <p>
  * 可用的排序规则定义在{@link com.duan.blogos.common.Rule}中
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class BlogSortRuleUndefinedException extends BaseRuntimeException {
 

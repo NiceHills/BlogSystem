@@ -7,7 +7,7 @@ import lombok.Getter;
  * Created on 2017/12/16.
  * 博文排序规则
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Getter
 @AllArgsConstructor

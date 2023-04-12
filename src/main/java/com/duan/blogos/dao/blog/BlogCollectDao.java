@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * Created on 2017/12/27.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Repository
 public interface BlogCollectDao extends BaseDao<BlogCollect> {

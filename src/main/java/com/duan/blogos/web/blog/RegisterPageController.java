@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 /**
  * Created on 2018/2/8.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Controller
 @RequestMapping("/register")

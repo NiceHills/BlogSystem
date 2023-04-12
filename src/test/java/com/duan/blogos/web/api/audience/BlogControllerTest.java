@@ -18,7 +18,7 @@ import java.util.Random;
 /**
  * Created on 2017/12/22.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class BlogControllerTest extends BaseTest {
 

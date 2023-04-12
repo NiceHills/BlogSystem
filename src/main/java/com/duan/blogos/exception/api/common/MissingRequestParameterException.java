@@ -6,7 +6,7 @@ import com.duan.blogos.exception.BaseRuntimeException;
  * Created on 2017/12/26.
  * 缺失请求参数
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class MissingRequestParameterException extends BaseRuntimeException {
 

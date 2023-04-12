@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * Created on 2018/2/17.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @RestController
 @RequestMapping("/blogger/{bloggerId}/logout")

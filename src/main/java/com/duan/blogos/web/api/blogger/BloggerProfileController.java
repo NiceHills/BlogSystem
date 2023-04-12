@@ -24,7 +24,7 @@ import java.util.Base64;
  * 3 更新资料
  * 4 删除资料
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @RestController
 @RequestMapping("/blogger/{bloggerId}/profile")

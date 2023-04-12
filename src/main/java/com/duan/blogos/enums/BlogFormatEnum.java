@@ -6,7 +6,7 @@ import com.duan.blogos.util.StringUtils;
  * Created on 2018/4/5.
  * 博文格式
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public enum BlogFormatEnum {
 

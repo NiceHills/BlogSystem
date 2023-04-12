@@ -3,7 +3,7 @@ package com.duan.blogos.util;
 /**
  * Created on 2018/1/11.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class ArrayUtils {
 

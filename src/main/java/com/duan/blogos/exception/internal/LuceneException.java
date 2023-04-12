@@ -4,7 +4,7 @@ package com.duan.blogos.exception.internal;
  * Created on 2018/1/15.
  * lucene 操作时出错
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class LuceneException extends InternalRuntimeException {
 

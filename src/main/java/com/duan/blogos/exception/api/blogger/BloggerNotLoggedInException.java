@@ -8,7 +8,7 @@ import com.duan.blogos.exception.BaseRuntimeException;
  * <p>
  * 一些api需要博主先登录才能执行操作
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class BloggerNotLoggedInException extends BaseRuntimeException {
 

@@ -17,7 +17,7 @@ import javax.servlet.http.HttpSession;
  * Created on 2017/12/26.
  * 博主账户相关信息验证
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Component
 public class BloggerValidateManager {

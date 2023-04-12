@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * Created on 2018/2/4.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class BaseCheckController extends RestController {
 

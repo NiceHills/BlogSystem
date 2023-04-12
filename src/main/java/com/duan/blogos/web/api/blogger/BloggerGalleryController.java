@@ -23,7 +23,7 @@ import static com.duan.blogos.enums.BloggerPictureCategoryEnum.DEFAULT_PICTURE;
  * 3 更新图片信息
  * 4 从设备和数据库中删除图片
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @RestController
 @RequestMapping("/blogger/{bloggerId}/gallery")

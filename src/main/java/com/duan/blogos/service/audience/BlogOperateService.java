@@ -10,7 +10,7 @@ package com.duan.blogos.service.audience;
  * 4. 收藏
  * 5. 投诉
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public interface BlogOperateService {
 

@@ -6,7 +6,7 @@ import com.duan.blogos.exception.BaseRuntimeException;
  * Created on 2017/12/21.
  * 字符串未按指定字符间隔
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class ParameterStringSplitException extends BaseRuntimeException {
 

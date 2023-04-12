@@ -6,7 +6,7 @@ import org.springframework.web.servlet.support.RequestContext;
 /**
  * Created on 2018/1/29.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Component
 public class MessageManager {

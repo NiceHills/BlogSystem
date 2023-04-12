@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletRequest;
  * Created on 2017/12/29.
  * 博主个人设置api
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @RestController
 @RequestMapping("/blogger/{bloggerId}/setting")

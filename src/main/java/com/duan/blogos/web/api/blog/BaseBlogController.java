@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
  * Created on 2017/12/26.
  * 该家族中的结果数据是依附于博文的，博主无效登录即可获取
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class BaseBlogController extends BaseCheckController {
 

@@ -25,7 +25,7 @@ import java.nio.file.Paths;
  * Created on 2018/1/10.
  * 博文全文检索，通过标题、摘要、关键字、内容检索
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Component
 public class BlogLuceneIndexManager {

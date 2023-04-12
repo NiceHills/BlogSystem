@@ -22,7 +22,7 @@ import java.util.List;
  * 2 取消博文收藏
  * 3 修改博文收藏
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @RestController
 @RequestMapping("/blogger/{bloggerId}/like")

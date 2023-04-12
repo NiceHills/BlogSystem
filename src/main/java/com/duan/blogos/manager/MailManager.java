@@ -8,7 +8,7 @@ import java.util.Properties;
 /**
  * Created on 2018/4/8.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Component
 public class MailManager {

@@ -6,7 +6,7 @@ import com.duan.blogos.exception.BaseRuntimeException;
  * Created on 2017/12/22.
  * 参数格式错误
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class ParameterFormatIllegalException extends BaseRuntimeException {
 

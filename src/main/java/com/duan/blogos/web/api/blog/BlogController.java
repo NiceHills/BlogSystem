@@ -25,7 +25,7 @@ import java.util.List;
  * 1. 检索指定博主的博文列表
  * 2. 获得博文主体内容
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @RestController
 @RequestMapping("/blog")

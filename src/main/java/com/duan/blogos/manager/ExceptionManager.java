@@ -16,7 +16,7 @@ import org.springframework.web.servlet.support.RequestContext;
  * Created on 2017/12/26.
  * 将异常与说明关联，同时实现国际化
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Component
 public class ExceptionManager {

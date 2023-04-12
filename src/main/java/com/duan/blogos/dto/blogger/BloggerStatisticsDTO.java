@@ -8,7 +8,7 @@ import java.io.Serializable;
  * Created on 2017/12/15.
  * 博主信息统计
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Data
 public class BloggerStatisticsDTO implements Serializable {

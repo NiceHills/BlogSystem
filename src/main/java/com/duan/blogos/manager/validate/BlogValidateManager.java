@@ -17,7 +17,7 @@ import java.util.List;
  * Created on 2017/12/26.
  * 博文相关信息验证
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Component
 public class BlogValidateManager {

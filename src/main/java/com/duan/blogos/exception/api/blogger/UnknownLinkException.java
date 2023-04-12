@@ -6,7 +6,7 @@ import com.duan.blogos.exception.BaseRuntimeException;
  * Created on 2017/12/20.
  * 友情链接不存在
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class UnknownLinkException extends BaseRuntimeException {
 

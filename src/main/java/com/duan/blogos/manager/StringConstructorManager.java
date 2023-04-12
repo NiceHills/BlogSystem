@@ -13,7 +13,7 @@ import java.io.File;
  * Created on 2018/1/2.
  * 字符拼接管理者
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Component
 public class StringConstructorManager {

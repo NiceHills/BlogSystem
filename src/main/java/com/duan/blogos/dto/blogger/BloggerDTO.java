@@ -11,7 +11,7 @@ import java.sql.Timestamp;
  * Created on 2017/12/14.
  * 博主资料
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Data
 public class BloggerDTO implements Serializable {

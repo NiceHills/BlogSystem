@@ -11,7 +11,7 @@ import com.duan.blogos.entity.blogger.BloggerAccount;
  * 3 根据博主id获取博主账户
  * 4 更新账户信息
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public interface BloggerAccountService {
 

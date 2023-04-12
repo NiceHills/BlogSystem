@@ -7,7 +7,7 @@ import org.springframework.stereotype.Repository;
 /**
  * Created on 2017/12/27.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Repository
 public interface BlogComplainDao extends BaseDao<BlogComplain> {

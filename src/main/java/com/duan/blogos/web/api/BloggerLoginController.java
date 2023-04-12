@@ -25,7 +25,7 @@ import java.security.NoSuchAlgorithmException;
  * 1 用户名登录
  * 2 电话号码登录
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @RestController
 @RequestMapping("/blogger/login")

@@ -6,7 +6,7 @@ import com.duan.blogos.exception.BaseRuntimeException;
  * Created on 2018/1/4.
  * 未授权
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class UnauthorizedException extends BaseRuntimeException {
 

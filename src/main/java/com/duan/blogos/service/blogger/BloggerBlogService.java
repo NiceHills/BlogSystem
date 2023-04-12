@@ -15,7 +15,7 @@ import java.util.List;
  * Created on 2017/12/18.
  * 博主对自己的博文管理服务
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public interface BloggerBlogService extends BlogFilter<ResultBean<List<BlogListItemDTO>>> {
 

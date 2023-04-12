@@ -6,7 +6,7 @@ import com.duan.blogos.exception.BaseRuntimeException;
  * Created on 2018/1/29.
  * 参数类型与目标类型不匹配
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class ParameterTypeMismatchException extends BaseRuntimeException {
 

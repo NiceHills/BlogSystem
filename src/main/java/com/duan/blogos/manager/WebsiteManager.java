@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 /**
  * Created on 2018/5/1.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Component
 public class WebsiteManager {

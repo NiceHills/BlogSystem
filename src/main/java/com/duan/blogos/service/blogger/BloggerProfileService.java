@@ -6,7 +6,7 @@ import com.duan.blogos.entity.blogger.BloggerProfile;
  * Created on 2017/12/14.
  * 博主个人资料服务
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public interface BloggerProfileService {
 

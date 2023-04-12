@@ -6,7 +6,7 @@ import com.duan.blogos.exception.BaseRuntimeException;
  * Created on 2017/12/20.
  * 未知错误，一般为服务器错误，但无法归类的错误
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class UnknownException extends BaseRuntimeException {
 

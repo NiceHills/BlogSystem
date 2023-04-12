@@ -25,7 +25,7 @@ import static com.duan.blogos.enums.BloggerPictureCategoryEnum.PUBLIC;
  * Created on 2018/1/3.
  * 图片管理
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @Component
 public class ImageManager {

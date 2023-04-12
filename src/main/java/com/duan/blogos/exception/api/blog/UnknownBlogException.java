@@ -6,7 +6,7 @@ import com.duan.blogos.exception.BaseRuntimeException;
  * Created on 2017/12/20.
  * 未知博文
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class UnknownBlogException extends BaseRuntimeException {
 

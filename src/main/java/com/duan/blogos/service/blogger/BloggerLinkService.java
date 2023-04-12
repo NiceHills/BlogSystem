@@ -9,7 +9,7 @@ import java.util.List;
  * Created on 2017/12/18.
  * 博主友情链接服务
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public interface BloggerLinkService {
 

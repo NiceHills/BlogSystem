@@ -19,7 +19,7 @@ import java.util.List;
  * 了头像，那么对应头像目录下也就有图片，此时需要将原来的头像文件移动到默认图片文件夹下并修改数据库记录（类别和保存路径），
  * 再将新的头像移动到头像文件夹下，后修改对应图片的数据库信息（类别和保存路径）。
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public interface BloggerPictureService {
 

@@ -6,7 +6,7 @@ import com.duan.blogos.common.BlogSortRule;
 /**
  * Created on 2017/12/19.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public interface BlogFilter<T> {
 

@@ -8,7 +8,7 @@ import com.duan.blogos.exception.BaseRuntimeException;
  * <p>
  * 博文的标题，内容，摘要或关键字包含违规内容。
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public class BlogContentIllegalException extends BaseRuntimeException {
 

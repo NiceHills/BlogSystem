@@ -7,7 +7,7 @@ import com.duan.blogos.restful.ResultBean;
 /**
  * Created on 2017/12/18.
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 public interface BlogStatisticsService {
 

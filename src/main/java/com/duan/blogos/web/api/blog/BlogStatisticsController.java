@@ -21,7 +21,7 @@ import javax.servlet.http.HttpServletRequest;
  * 1 获取统计信息
  * 2 获取统计信息（简版，只获取各项信息的次数）
  *
- * @author DuanJiaNing
+ * @author hitwh2200400513
  */
 @RestController
 @RequestMapping("/blog/{blogId}/statistics")
